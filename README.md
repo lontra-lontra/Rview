@@ -6,5 +6,6 @@ The system integrates FPGA, Arduino, and a Processing interface for interactive 
 A distance sensor collects spatial data, used to reconstruct the mapped environment digitally.
 Motor angles and calibration are controlled via keyboard inputs for precise positioning.
 The interface displays both the arm’s movement and its digital counterpart.
-This project highlights hardware-software integration and real-time 3D mapping.
-See the manual-usuario-final.docx for detailed setup and usage instructions.
+This project highlights hardware-software integration and real-time 3D mapping
+
+![View of the project](https://raw.githubusercontent.com/lontra-lontra/Rview/main/image.png)
