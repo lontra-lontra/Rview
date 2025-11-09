@@ -1,4 +1,6 @@
-Structural Mapping and Digital Twin System 🏗️
+Structural Mapping and Digital Twin System 
+
+
 
 This repository documents the project developed at POLI - USP.
 The goal was to design a digital twin of a robotic arm capable of mapping physical structures in real time.
